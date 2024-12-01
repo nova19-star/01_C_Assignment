@@ -5,14 +5,11 @@
                                * * * * * * * * * * * */
 
 #include <stdio.h>
-
-int main()
-{
-
-printf("* * * * * * * * * * *\n");
-printf("* NAME: Durgesh Nai *\n");
-printf("* AGE: 100          *\n");
-printf("* COURSE:MCA        *\n");
-printf("* * * * * * * * * * *\n");
+int main() {
+    printf("* * * * * * * * * * *\n");
+    printf("* NAME: Durgesh Nai *\n");
+    printf("* AGE: 100          *\n");
+    printf("* COURSE:MCA        *\n");
+    printf("* * * * * * * * * * *\n");
 return 0;
 }

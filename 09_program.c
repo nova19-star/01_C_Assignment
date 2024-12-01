@@ -9,18 +9,18 @@ int a,b;
 a=10,b=20;
 
      //Addition
-    printf("The sum is %d\n",a+b);
+    printf("Addition: %d\n",a+b);
 
     //Subtraction
-    printf("The Subtraction is %d\n",a-b);
+    printf("Subtraction: %d\n",a-b);
 
     //Multiplication
-    printf("The Multiplication is %d\n",a*b);
+    printf("Multiplication: %d\n",a*b);
 
     //Division
-    printf("The Division is %d\n",a/b);
+    printf("Division: %d\n",a/b);
 
     //Modulus
-    printf("The is Modulus %d\n",a%b);
+    printf("Modulus: %d\n",a%b);
     return 0;
 }
